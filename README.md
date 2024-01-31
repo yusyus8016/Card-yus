@@ -26,6 +26,10 @@ Para instalar la aplicación:
 
 ![card](https://github.com/yusyus8016/Card-yus/assets/124086000/43b5b8e9-7c8f-4164-8be2-31b4ed99aff3)
 
+# deplegado 
+
+https://yusyus8016.github.io/Card-yus/
+
 
 
 
